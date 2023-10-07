@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm puze zhong! :stars:</h1>
+![github-header-image](https://github.com/pzhong1/pzhong1/assets/123424361/e5e2cdc9-e1d8-4961-951c-187fd0b7975c)
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/puze-zhong-0566a6138/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zpz9991@gmail.com)
