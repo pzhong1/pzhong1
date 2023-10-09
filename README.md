@@ -1,6 +1,16 @@
 ![github-header-image](https://github.com/pzhong1/pzhong1/assets/123424361/e5e2cdc9-e1d8-4961-951c-187fd0b7975c)
 
+👋 Hi there! I'm puze zhong.
 
+🎓 In 2018, I graduated from **University of Texas at San Antonio (UTSA)** with a BS degree in **Information Systems**. More recently, I've expanded my skill set by completing a **Full Stack Web Development Bootcamp**.
+
+💼 While I am newly stepping into the professional world, my academic background and intensive training from the bootcamp have equipped me with a strong foundation in "HTML, CSS, JavaScript, React, Node.js, MONGODB ...".
+
+🔍 I'm eager to bring my skills to a real-world setting and am actively seeking opportunities in web development.
+
+📦 Check out some of the projects I've worked on in my repositories!
+
+🔗 I'd love to connect and discuss any potential collaboration or opportunities. Feel free to drop me a message!  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/puze-zhong-0566a6138/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zpz9991@gmail.com)
 
